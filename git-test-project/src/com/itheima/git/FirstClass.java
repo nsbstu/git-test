@@ -11,6 +11,6 @@ public class FirstClass {
     }
     public void test(){
         int  i = 0;
-        i += 12;
+        i += 19;
     }
 }
